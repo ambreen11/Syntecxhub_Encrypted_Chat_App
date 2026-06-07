@@ -1,0 +1,14 @@
+2026-06-07 09:55:24,782 - INFO - Server initialization started with Room Isolation
+2026-06-07 09:55:48,096 - INFO - Client connected: ('127.0.0.1', 51460)
+2026-06-07 09:55:48,096 - INFO - Client disconnected: ('127.0.0.1', 51460) from Room None
+[2026-06-07 12:00:36] Server running on 127.0.0.1:5000. Waiting for clients...
+[2026-06-07 12:01:19] Server running on 127.0.0.1:5000. Waiting for clients...
+[2026-06-07 12:02:20] New connection from ('127.0.0.1', 55258)
+[2026-06-07 12:02:20] ('127.0.0.1', 55258) successfully joined room '123'
+[2026-06-07 12:03:04] New connection from ('127.0.0.1', 58454)
+[2026-06-07 12:03:04] ('127.0.0.1', 58454) successfully joined room '123'
+[2026-06-07 12:03:04] Room '123' is now full. Triggering Key Exchange.
+[2026-06-07 12:03:04] Relaying 32 encrypted bytes from ('127.0.0.1', 58454) in room '123'
+[2026-06-07 12:03:04] Relaying 32 encrypted bytes from ('127.0.0.1', 55258) in room '123'
+[2026-06-07 12:04:54] Error handling client ('127.0.0.1', 55258): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-06-07 12:04:54] Client ('127.0.0.1', 55258) disconnected from room '123'

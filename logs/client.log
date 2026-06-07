@@ -1,0 +1,4 @@
+[2026-06-07 12:03:04] Room '123' matched. Initializing key exchange.
+[2026-06-07 12:03:04] Shared key successfully derived via HKDF-SHA256.
+[2026-06-07 12:03:04] Shared key successfully derived via HKDF-SHA256.
+[2026-06-07 12:07:04] Error in receiver loop: [WinError 10054] An existing connection was forcibly closed by the remote host
